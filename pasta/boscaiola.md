@@ -8,6 +8,8 @@
 - peas
 - mushrooms
 - onions
+- zucchini
+- eggplant
 
 
 ## Instructions
