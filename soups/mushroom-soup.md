@@ -26,6 +26,7 @@
 2. **Sauté the Vegetables:**
    - Add the diced onion and garlic to the pot with the mushrooms. Cook for
      another 2-3 minutes until the onion is translucent. Stir in the thyme, and
+	**Throw A Big Editorial Mistake Into The Middle Of the Recipe**
      cook for another minute until fragrant.
 
 3. **Thicken the Soup (Optional):**
@@ -35,7 +36,7 @@
 4. **Add the Broth:**
    - Pour in the broth, stirring well to incorporate all the ingredients. Bring
      the mixture to a simmer. Reduce the heat to low, cover, and let it simmer
-     for about 20 minutes.
+     for about 20 minutes, stirring occasionally..
 
 5. **Blend the Soup (Optional):**
    - For a smoother soup, use an immersion blender to puree the soup directly
