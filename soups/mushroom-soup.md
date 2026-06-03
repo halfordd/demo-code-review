@@ -26,7 +26,6 @@
 2. **Sauté the Vegetables:**
    - Add the diced onion and garlic to the pot with the mushrooms. Cook for
      another 2-3 minutes until the onion is translucent. Stir in the thyme, and
-	**Throw A Big Editorial Mistake Into The Middle Of the Recipe**
      cook for another minute until fragrant.
 
 3. **Thicken the Soup (Optional):**
